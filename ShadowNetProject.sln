@@ -9,6 +9,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyLibrary", "ProxyLibrar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedProxyLibrary", "AdvancedProxyLibrary\AdvancedProxyLibrary.csproj", "{914EF109-6890-419E-B301-2DB618F439C4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MCPEPacketLib", "MCPEPacketLib", "{3193FEE8-7973-4B53-8D57-16A10A5F0216}"
+	ProjectSection(SolutionItems) = preProject
+		..\MCPEProxy\MCPEPacketLib\bin\Release\MCPEPacketLib.dll = ..\MCPEProxy\MCPEPacketLib\bin\Release\MCPEPacketLib.dll
+		..\MCPEProxy\MCPEPacketLib\bin\Release\MCPEPacketLib.pdb = ..\MCPEProxy\MCPEPacketLib\bin\Release\MCPEPacketLib.pdb
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
