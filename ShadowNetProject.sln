@@ -15,6 +15,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MCPEPacketLib", "MCPEPacket
 		..\MCPEProxy\MCPEPacketLib\bin\Release\MCPEPacketLib.pdb = ..\MCPEProxy\MCPEPacketLib\bin\Release\MCPEPacketLib.pdb
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BB3736D5-0746-43C3-AD11-850C9F4FE74C}"
+	ProjectSection(SolutionItems) = preProject
+		memo.txt = memo.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
