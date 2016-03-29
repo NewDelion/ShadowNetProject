@@ -22,6 +22,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		memo.txt = memo.txt
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShadowNet_sample3", "..\ShadowNetProjectDebug\ShadowNet_sample3\ShadowNet_sample3.csproj", "{DD5F9B9F-F732-45EE-BDFD-B460E1ED3483}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -40,6 +42,10 @@ Global
 		{914EF109-6890-419E-B301-2DB618F439C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{914EF109-6890-419E-B301-2DB618F439C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{914EF109-6890-419E-B301-2DB618F439C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD5F9B9F-F732-45EE-BDFD-B460E1ED3483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD5F9B9F-F732-45EE-BDFD-B460E1ED3483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD5F9B9F-F732-45EE-BDFD-B460E1ED3483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD5F9B9F-F732-45EE-BDFD-B460E1ED3483}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
