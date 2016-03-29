@@ -22,7 +22,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		memo.txt = memo.txt
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShadowNet_sample3", "..\ShadowNetProjectDebug\ShadowNet_sample3\ShadowNet_sample3.csproj", "{DD5F9B9F-F732-45EE-BDFD-B460E1ED3483}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShadowNet_sample3", "ShadowNet_sample3\ShadowNet_sample3.csproj", "{DD5F9B9F-F732-45EE-BDFD-B460E1ED3483}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
